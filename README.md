@@ -2,6 +2,7 @@
 
 A simple responsive homepage showcasing the city of Pune, built using HTML and CSS.
 
+Live link: https://hometown-visit-sample-page.vercel.app
 ## Features
 
 - Hero section with a background image
